@@ -3,7 +3,7 @@
  - Remember the table showing the cost for each link type
 
 
-![[Pasted image 20220527025816.png]]
+![](Pasted image 20220527025816.png)
 
 
 ## Neighbor Discovery Protocol
@@ -16,4 +16,3 @@
 
 ## NAT
 - Understand more complex NAT types
--
