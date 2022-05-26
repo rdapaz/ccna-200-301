@@ -3,7 +3,8 @@
  - Remember the table showing the cost for each link type
 
 
-![]('Pasted image 20220527025816.png')
+![](Pasted\ image\ 20220527025816.png)
+![](images/Network_Redundancy-HSRP/Aspose.Words.d288ce6b-2660-4bd6-ae2c-d01060fe47f4.001.png)
 
 
 ## Neighbor Discovery Protocol
